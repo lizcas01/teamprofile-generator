@@ -1,0 +1,19 @@
+{
+  "name": "teamprofile-generator",
+  "version": "1.0.0",
+  "description": "generator for employee profiles",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lizcas01/teamprofile-generator.git"
+  },
+  "author": "lizcas01",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lizcas01/teamprofile-generator/issues"
+  },
+  "homepage": "https://github.com/lizcas01/teamprofile-generator#readme"
+}
