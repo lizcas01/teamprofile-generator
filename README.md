@@ -1,1 +1,0 @@
-# teamprofile-generator
