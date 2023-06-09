@@ -1,7 +1,7 @@
 const fs = require('fs');
 
 const fileGenerator = (fileContent) => {
-	fs.fileGenerator('./src/page.js', fileContent, (err) => {
+	fs.fileGenerator('./dist/html', fileContent, (err) => {
 		if (err) {
 			console.log(err);
 		} else {
