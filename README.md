@@ -19,6 +19,7 @@
 
   ## Usage 
   Follow the video provided. 
+  https://drive.google.com/file/d/1orvxo0vx_abwbgTM0WMctXYVKAyyNdu2/view?usp=drive_link
 
   ## Contributing 
   Download this code to make your own profiles.
