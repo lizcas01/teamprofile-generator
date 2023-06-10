@@ -16,7 +16,6 @@ main {
 
 .employee {
     width: fit-content;
-    margin: 100px auto 0;
     display: inline-block;
     align-items: center;
     height: 400px;
